@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 
 /**
  * helpAlias - instructions on how to exit
