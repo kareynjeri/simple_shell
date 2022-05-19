@@ -1,4 +1,4 @@
 # AUTHORS
-- Martin Thuo
-- Lavender Otieno
+- Karey Njeri
+- Vitamax Oduol
 
