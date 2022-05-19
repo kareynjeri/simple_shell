@@ -1,2 +1,2 @@
 SIMPLE SHELL
-AUTHORS Karey njeri Vitamax odoul
+AUTHORS Karey njeri Vitamax Oduol
